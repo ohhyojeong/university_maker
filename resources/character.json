@@ -1,0 +1,40 @@
+[
+    {
+        "name": "효",
+        "turn": 0,
+        "month": 12,
+        "stats": {
+            "money": 161000,
+            "intelligence": 100,
+            "charm": 48,
+            "stamina": 5,
+            "stress": 62
+        },
+        "history": [],
+        "action_counts": {
+            "6": 45,
+            "3": 10,
+            "4": 20,
+            "8": 45,
+            "1": 66,
+            "7": 30,
+            "2": 32,
+            "5": 50
+        },
+        "events_triggered": [
+            "4:midterm",
+            "5:festival",
+            "6:final_exam",
+            "mock_interview",
+            "illness",
+            "7:illness",
+            "8:illness",
+            "10:illness",
+            "11:graduation_project",
+            "11:illness"
+        ],
+        "pending_event": null,
+        "ending": "sme",
+        "id": 1
+    }
+]
