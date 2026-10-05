@@ -39,7 +39,7 @@ univeersity_maker/
 ## 실행 방법
 
 ```bash
-git clone https://github.com/ohhyojeong/univeersity_maker.git
+git clone https://github.com/ohhyojeong/university_maker.git
 cd univeersity_maker
 python main.py
 ```
