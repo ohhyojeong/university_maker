@@ -44,7 +44,4 @@ cd univeersity_maker
 python main.py
 ```
 
-## Team Project
 
-Python의 클래스와 모듈 구조를 활용하여 역할을 분리하고,  
-Git/GitHub를 이용해 팀원들과 기능별로 협업하며 개발했습니다.
